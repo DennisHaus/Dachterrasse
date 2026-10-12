@@ -37,12 +37,12 @@ window.LOCATION_CONFIG = {
     , Kyoto Design Lab
   `,
 
-  startView: {
-  position: [607.803, -614.757, 1336.936],
-  target: [5.885, -75.285, 1176.3]
-},
+  coordinates:
+    "47.40825043800017, 8.506377315584318",
 
-  navigationMode: "fly",
+  startView: null,
+
+  navigationMode: "orbit",
 
   uploadUrl:
     "https://github.com/DennisHaus/Dachterrasse/upload/main/scans",
