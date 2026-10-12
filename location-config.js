@@ -2,21 +2,19 @@ window.LOCATION_CONFIG = {
   pageTitle: "Spatial Library Brinzauls",
 
   metaDescription:
-    "Cloud optimized point cloud viewer for Brienz/Brinzauls scans.",
+    "Cloud optimized point cloud viewer for Research Project Dachterrasse scans.",
 
   brandEyebrow:
     "© ETH ZURICH",
 
   brandTitle: `
-    SPATIAL<br>
-    LIBRARY<br>
-    BRINZAULS
+    Jardin D'eau<br>
+    Interface<br>
   `,
 
   brandSubtitle: `
   copc viewer & point cloud model interface | for collecting, storing and
-  visualizing spatial recordings and spatial visions of Brienz/Brinzauls
-  during the Seminarweek 2026  |
+  visualizing spatial recordings and spatial interventions in the open air laboratory  |
     beta version
     <br><br>
     See all Places <a
@@ -47,7 +45,7 @@ window.LOCATION_CONFIG = {
   navigationMode: "fly",
 
   uploadUrl:
-    "https://github.com/DennisHaus/spatial-library-brinzauls/upload/main/scans",
+    "https://github.com/DennisHaus/dachterrasse/upload/main/scans",
 
   readmeTitle: "Spatial Library - Read Me",
 
@@ -62,7 +60,7 @@ window.LOCATION_CONFIG = {
   useRawBaseForPaths: false,
 
   rawBaseUrl:
-    "https://raw.githubusercontent.com/DennisHaus/pointcloud_viewer/main",
+    "https://raw.githubusercontent.com/DennisHaus/dachterrasse/main",
 
   downloadPassword: "Voser",
 
@@ -71,7 +69,7 @@ window.LOCATION_CONFIG = {
       <h3>Overview</h3>
 
       <p>
-        Spatial Library Brienzauls is a point-cloud viewer for loading,
+        Jardin d'eau Interface is a point-cloud viewer for loading,
         visualizing, inspecting and comparing COPC LAZ scans.
       </p>
 
