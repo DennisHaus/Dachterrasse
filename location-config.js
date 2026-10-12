@@ -40,7 +40,10 @@ window.LOCATION_CONFIG = {
   coordinates:
     "47.40825043800017, 8.506377315584318",
 
-  startView: null,
+    startView: {
+      position: [617.315, 386.143, 560.191],
+      target: [574.013, 365.772, 538.098]
+    },
 
   navigationMode: "orbit",
 
