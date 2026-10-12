@@ -4,11 +4,11 @@
     {
       "id": "scans-grundlage-2025-publicdata-hoenngerberg-shift-2680k-1251k",
       "name": "2025 Publicdata Hoenngerberg Shift 2680k 1251k",
-      "filename": "2025_PublicData_hoenngerberg_shift_-2680k_-1251k.laz",
-      "path": "./scans/Grundlage/2025_PublicData_hoenngerberg_shift_-2680k_-1251k.laz",
-      "url": "./scans/Grundlage/2025_PublicData_hoenngerberg_shift_-2680k_-1251k.laz",
-      "format": "laz",
-      "sizeBytes": 49029665,
+      "filename": "2025_PublicData_hoenngerberg_shift_-2680k_-1251k.copc.laz",
+      "path": "./scans/Grundlage/2025_PublicData_hoenngerberg_shift_-2680k_-1251k.copc.laz",
+      "url": "./scans/Grundlage/2025_PublicData_hoenngerberg_shift_-2680k_-1251k.copc.laz",
+      "format": "copc",
+      "sizeBytes": 83225211,
       "pointCount": null,
       "crs": null,
       "uploadedAt": "2026-10-12"
