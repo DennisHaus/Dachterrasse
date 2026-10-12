@@ -1,5 +1,5 @@
 window.LOCATION_CONFIG = {
-  pageTitle: "Spatial Library Brinzauls",
+  pageTitle: "Spatial Library Jardin deau",
 
   metaDescription:
     "Cloud optimized point cloud viewer for Research Project Dachterrasse scans.",
@@ -45,7 +45,7 @@ window.LOCATION_CONFIG = {
   navigationMode: "fly",
 
   uploadUrl:
-    "https://github.com/DennisHaus/dachterrasse/upload/main/scans",
+    "https://github.com/DennisHaus/Dachterrasse/upload/main/scans",
 
   readmeTitle: "Spatial Library - Read Me",
 
@@ -60,7 +60,7 @@ window.LOCATION_CONFIG = {
   useRawBaseForPaths: false,
 
   rawBaseUrl:
-    "https://raw.githubusercontent.com/DennisHaus/dachterrasse/main",
+    "https://raw.githubusercontent.com/DennisHaus/Dachterrasse/main",
 
   downloadPassword: "Voser",
 
