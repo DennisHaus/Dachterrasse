@@ -37,7 +37,7 @@ var CONFIG = {
     visitor chose is remembered in their browser.
   */
   navigationMode:
-    "fly",
+    "Orbit",
 
   /* How far the view turns per pixel of mouse drag */
   lookSensitivity:
@@ -4269,7 +4269,7 @@ function isSinglePixelMode() {
     button.getAttribute(
       "aria-pressed"
     ) ===
-    "true"
+    "false"
   );
 }
 
