@@ -2,28 +2,28 @@
   "version": 1,
   "scans": [
     {
-      "id": "scans-grundlage-2025-publicdata-hoenngerberg-shift-2680k-1251k",
-      "name": "2025 Publicdata Hoenngerberg Shift 2680k 1251k",
-      "filename": "2025_PublicData_hoenngerberg_shift_-2680k_-1251k.copc.laz",
-      "path": "./scans/Grundlage/2025_PublicData_hoenngerberg_shift_-2680k_-1251k.copc.laz",
-      "url": "./scans/Grundlage/2025_PublicData_hoenngerberg_shift_-2680k_-1251k.copc.laz",
-      "format": "copc",
-      "sizeBytes": 83226116,
-      "pointCount": null,
-      "crs": null,
-      "uploadedAt": "2026-10-12"
-    },
-    {
-      "id": "scans-jahre-2026-october-12",
+      "id": "scans-01-jahre-2026-october-12",
       "name": "2026 October 12",
       "filename": "2026_October_12.copc.laz",
-      "path": "./scans/Jahre/2026_October_12.copc.laz",
-      "url": "./scans/Jahre/2026_October_12.copc.laz",
+      "path": "./scans/01 Jahre/2026_October_12.copc.laz",
+      "url": "./scans/01 Jahre/2026_October_12.copc.laz",
       "format": "copc",
       "sizeBytes": 72437828,
       "pointCount": null,
       "crs": null,
-      "uploadedAt": "2026-10-12"
+      "uploadedAt": "2026-10-14"
+    },
+    {
+      "id": "scans-02-grundlage-2025-publicdata-hoenngerberg-shift-2680k-1251k",
+      "name": "2025 Publicdata Hoenngerberg Shift 2680k 1251k",
+      "filename": "2025_PublicData_hoenngerberg_shift_-2680k_-1251k.copc.laz",
+      "path": "./scans/02 Grundlage/2025_PublicData_hoenngerberg_shift_-2680k_-1251k.copc.laz",
+      "url": "./scans/02 Grundlage/2025_PublicData_hoenngerberg_shift_-2680k_-1251k.copc.laz",
+      "format": "copc",
+      "sizeBytes": 83226116,
+      "pointCount": null,
+      "crs": null,
+      "uploadedAt": "2026-10-14"
     }
   ]
 }
