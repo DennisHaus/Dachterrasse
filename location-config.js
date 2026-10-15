@@ -1,15 +1,15 @@
 window.LOCATION_CONFIG = {
-  pageTitle: "Spatial Library Jardin deau",
+  pageTitle: "Jardin d'eau",
 
   metaDescription:
-    "Cloud optimized point cloud viewer for Research Project Dachterrasse scans.",
+    "Research Project Jardin d'eau",
 
   brandEyebrow:
     "© ETH ZURICH",
 
   brandTitle: `
-    Jardin D'eau<br>
-    Interface<br>
+    Jardin<br>
+    d'eau<br>
   `,
 
   brandSubtitle: `
